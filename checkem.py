@@ -1,14 +1,4 @@
-#!/usr/bin/python
 
-# author : @alxndr_pereira
-# github : github.com/alxpereira
-
-# Dependencies 
-# - pyDNS : pip install pyDNS
-# - validate_email : pip install validate_email
-
-# Install "pip" Package manager
-# - https://pip.pypa.io/en/stable/installing/
 
 import sys
 import csv
